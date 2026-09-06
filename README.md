@@ -9,3 +9,7 @@
 ## 学习记录
 ### Day01
 开始学习Github
+- 创建Github账户
+- 创建Repo
+- 理解README
+- 理解Commit
