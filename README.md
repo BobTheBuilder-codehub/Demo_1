@@ -16,3 +16,9 @@
 
 ## Python
 即将开始学习Python
+
+## LLM
+Future learning topics:
+- Prompt Engineering
+- RAG
+- Agents
