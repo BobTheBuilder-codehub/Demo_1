@@ -22,3 +22,10 @@ Future learning topics:
 - Prompt Engineering
 - RAG
 - Agents
+
+## Git Learning
+
+Today I learned:
+- git status
+- git add
+- git commit
