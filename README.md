@@ -29,3 +29,12 @@ Today I learned:
 - git status
 - git add
 - git commit
+
+## RAG Learn
+
+### Topics
+
+- Embedding
+- Vector Database
+- Retrieval
+- Generation
