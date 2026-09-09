@@ -38,3 +38,5 @@ Today I learned:
 - Vector Database
 - Retrieval
 - Generation
+
+## AI notes
